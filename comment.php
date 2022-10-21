@@ -7,7 +7,7 @@
    #echo "Thailand";
 
    //บรรทัดที่10-12 แสดงผลการใช้งาน Coment แบบหลายบรรทัด
-   /*echo "<br>";
+   /*echo "<br>1";
    echo "<br>";
    echo "94000<br>";
    echo "Asia<br>"; */
